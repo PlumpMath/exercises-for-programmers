@@ -1,5 +1,5 @@
 # 글자 수 세기
-# 기본 버전
+# 입력 없을 때 메시지 출력
 
 user_input = input('What is the input string? ')
 

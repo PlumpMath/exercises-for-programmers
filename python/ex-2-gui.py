@@ -1,3 +1,6 @@
+# 글자 수 세기
+# GUI 버전
+
 import tkinter
 gui = tkinter.Tk()
 
